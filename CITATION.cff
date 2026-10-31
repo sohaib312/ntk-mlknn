@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "NTK neighbourhoods for multi-label kNN"
+type: software
+authors:
+  - family-names: Hassan
+    given-names: Syed Sohaib
+repository-code: "https://github.com/sohaib312/ntk-mlknn"
+license: MIT
+keywords:
+  - multi-label classification
+  - neural tangent kernel
+  - k-nearest neighbours
+  - hubness

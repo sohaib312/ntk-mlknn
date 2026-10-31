@@ -1,0 +1,10 @@
+{
+  "dataset": "medical",
+  "n_train": 333,
+  "n_test": 645,
+  "n_features": 1449,
+  "n_labels": 45,
+  "label_cardinality": 1.2552552552552552,
+  "n_configs": 1440,
+  "seconds": 39.9
+}

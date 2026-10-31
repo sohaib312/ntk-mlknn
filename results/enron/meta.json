@@ -1,0 +1,10 @@
+{
+  "dataset": "enron",
+  "n_train": 1123,
+  "n_test": 579,
+  "n_features": 1001,
+  "n_labels": 53,
+  "label_cardinality": 3.3864648263579697,
+  "n_configs": 1440,
+  "seconds": 50.4
+}

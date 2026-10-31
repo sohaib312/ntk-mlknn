@@ -1,0 +1,10 @@
+{
+  "dataset": "bibtex",
+  "n_train": 4880,
+  "n_test": 2515,
+  "n_features": 1836,
+  "n_labels": 159,
+  "label_cardinality": 2.380327868852459,
+  "n_configs": 1440,
+  "seconds": 1341.7
+}

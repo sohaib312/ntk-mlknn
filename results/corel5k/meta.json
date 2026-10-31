@@ -1,0 +1,10 @@
+{
+  "dataset": "corel5k",
+  "n_train": 4500,
+  "n_test": 500,
+  "n_features": 499,
+  "n_labels": 374,
+  "label_cardinality": 3.5215555555555556,
+  "n_configs": 1440,
+  "seconds": 2204.3
+}

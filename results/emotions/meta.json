@@ -1,0 +1,10 @@
+{
+  "dataset": "emotions",
+  "n_train": 391,
+  "n_test": 202,
+  "n_features": 72,
+  "n_labels": 6,
+  "label_cardinality": 1.813299232736573,
+  "n_configs": 1440,
+  "seconds": 12.4
+}

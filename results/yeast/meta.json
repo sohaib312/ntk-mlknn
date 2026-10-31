@@ -1,0 +1,10 @@
+{
+  "dataset": "yeast",
+  "n_train": 1500,
+  "n_test": 917,
+  "n_features": 103,
+  "n_labels": 14,
+  "label_cardinality": 4.228,
+  "n_configs": 1440,
+  "seconds": 146.3
+}

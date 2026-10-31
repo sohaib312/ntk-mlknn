@@ -1,0 +1,10 @@
+{
+  "dataset": "scene",
+  "n_train": 1211,
+  "n_test": 1196,
+  "n_features": 294,
+  "n_labels": 6,
+  "label_cardinality": 1.0619322873658135,
+  "n_configs": 1440,
+  "seconds": 92.7
+}

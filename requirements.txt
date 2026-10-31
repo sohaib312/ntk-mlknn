@@ -1,0 +1,12 @@
+# Python 3.11. neural-tangents is only needed for the test that checks the closed-form NTK
+# against it (it pulls in TensorFlow).
+numpy<2
+scipy
+scikit-learn==1.5.2
+pandas
+matplotlib
+liac-arff
+pytest
+scikit-multilearn==0.2.0
+jax[cpu]==0.4.30
+neural-tangents==0.6.5
